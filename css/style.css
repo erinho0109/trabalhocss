@@ -1,0 +1,40 @@
+body
+{
+    background-color: #ebe6d9
+}
+h1 
+{
+    text-align: center;
+}
+#img1
+ {
+display: block;
+margin: auto;
+}
+#img2
+{
+display: block; 
+margin: auto;
+}
+#img3
+{
+display: block;
+margin: auto;
+}
+#img4
+{
+display: block;
+margin: auto;
+width: 460px;
+}
+p
+{
+ text-align: center;
+ font-size: 18px;
+}
+img
+{
+display: block;
+margin: auto;
+}
+
